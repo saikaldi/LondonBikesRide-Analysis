@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Python-specific logs
+*.log
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.zip
+
+# Kaggle API credentials
+kaggle.json
+
+# MacOS-specific files
+.DS_Store
+
+# Ignore IDE files
+.idea/
+
+# Ignore Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
