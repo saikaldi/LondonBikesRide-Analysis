@@ -22,8 +22,6 @@ ENV/
 
 
 *.json
-images
-/images
 
 # Kaggle API credentials
 kaggle.json
