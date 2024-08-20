@@ -19,10 +19,11 @@ ENV/
 *.log
 
 # Data files
-*.csv
-*.xlsx
+
+
 *.json
-*.zip
+images
+/images
 
 # Kaggle API credentials
 kaggle.json
