@@ -1,5 +1,7 @@
 # London Bike Rides Analysis
 
+Explore the interactive visualization of the London Bike Rides project here: [London Bike Rides Dashboard](https://public.tableau.com/app/profile/saikal.ulukbekova/viz/LondonBikeRides_17245141364620/Dashboard?publish=yes).
+
 ## Overview
 
 This project analyzes bike-sharing data in London to uncover trends, patterns, and the impact of weather conditions on bike usage. Using Python for data processing and Tableau for visualization, the project provides insights into how temperature, wind speed, and other factors influence the frequency of bike rides.
